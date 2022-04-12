@@ -1,17 +1,17 @@
 
 # -- Tipos Ruby --
 
-produto = "Macbook Air"
-preco = 5999.99
-quantidade = 10
-disponivel = true
+product     = "Macbook Air"
+price       = 5999.99
+theAmount   = 10
+available   = true
 
-puts produto.class
-puts preco.class
-puts quantidade.class
-puts disponivel.class
+puts product.class
+puts price.class
+puts theAmount.class
+puts available.class
 
-puts produto
-puts preco
-puts quantidade
-puts disponivel
+puts product
+puts price
+puts theAmount
+puts available
